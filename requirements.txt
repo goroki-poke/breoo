@@ -1,0 +1,3 @@
+# Requirements for Cloudflare Workers (Python)
+# Note: Cloudflare only supports pure Python packages or those in the Pyodide repository.
+# 'requests' is NOT supported; use the built-in 'js.fetch' instead.

@@ -1,0 +1,10 @@
+name = "global-address-api"
+main = "main.py"
+compatibility_date = "2024-04-01"
+compatibility_flags = ["python_workers"]
+
+[vars]
+API_KEY = "your-secret-key-123"
+GOOGLE_MAPS_API_KEY = ""
+SMARTY_AUTH_ID = ""
+SMARTY_AUTH_TOKEN = ""
